@@ -6,6 +6,4 @@ other sources please update the `build_*` scripts.
 
 # Instructions
 
-Build docker: `docker build -t ubuntu_pycgm2 . `
-
-Run docker: `docker run -it ubuntu_pycgm2`
+Execute: `run_docker.sh`
